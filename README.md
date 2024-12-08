@@ -2,12 +2,6 @@
 
 Welcome to the **Loops In Action** repository! 🎉 This repository contains a collection of loop pattern solutions implemented in various programming languages, focusing on star patterns, number patterns, and alphabet patterns.
 
-## Table of Contents 📑
-- [Overview](#overview)
-- [Pattern Categories](#pattern-categories)
-- [Language Used](#language-used)
-- [Contributing](#contributing)
-
 ## Overview 📝
 In this repository, you'll find a series of loop pattern problems solved in different programming languages. These patterns include:
 1. **Star Patterns** ⭐: Visual patterns created using asterisks (`*`).
