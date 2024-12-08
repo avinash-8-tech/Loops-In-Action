@@ -1,4 +1,5 @@
-# Loops In Action 🚀
+# <p align="center"># Loops In Action 🚀</p>
+
 
 Welcome to the **Loops In Action** repository! 🎉 This repository contains a collection of loop pattern solutions implemented in various programming languages, focusing on star patterns, number patterns, and alphabet patterns.
 
