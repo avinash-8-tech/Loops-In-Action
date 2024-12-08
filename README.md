@@ -26,8 +26,7 @@ Alphabet patterns demonstrate how loops can be used to create letters or sequenc
 - C++ 💡
 
 ## Contributing 🤝
-Contributions are welcome! If you have a new pattern or improvement, feel free to fork the repository, make your changes, and submit a pull request. Please ensure that your code follows the repository's style guide and includes proper documentation.
-
+Contributions are welcome! If you have a new pattern or improvement, feel free to fork the repository, make your changes, and submit a pull request.
 ---
 
 Happy coding, and enjoy experimenting with loops! 🚀
